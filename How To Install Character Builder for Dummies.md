@@ -2,7 +2,7 @@
 
 This is a manual installation guide for the D&D 4e Character Builder by Wizards of the Coast.
 It is recommended that you discard these instructions and read the README instead.
-You should only follow these steps if install_cb.bat has failed to install.
+You should only follow these steps if `install_cb.bat` has failed to install.
 However, saying that, these instructions are almost guaranteed to work.
 
 `INSTALL_DIRECTORY` = C:\Program Files (x86)\Wizards of the Coast\Character Builder
