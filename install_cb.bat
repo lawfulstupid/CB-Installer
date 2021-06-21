@@ -14,8 +14,8 @@ setlocal EnableDelayedExpansion
 cd "%~dp0"
 
 @REM PARAMETERS
-set version=1.3
-set filelist=16g7969GIRjOUPG8dY3jfdUo6AhL8dX26
+set version=2.0
+set filelist=https://raw.githubusercontent.com/lawfulstupid/CB-Installer/main/repository/filelist.txt
 set "install_dir=C:\Program Files (x86)\Wizards of the Coast\Character Builder"
 set "work_dir=%temp%\charbuildinstall"
 set "app_name=DnD 4e Character Builder"
@@ -38,7 +38,7 @@ goto info_end
 echo Character Builder Installation Wizard
 echo Version %version%
 echo.
-echo https://drive.google.com/open?id=1bs8bjQFw41FDjM27X-aaPmJeV_KoTr55
+echo https://github.com/lawfulstupid/CB-Installer
 goto:eof
 :info_end
 
