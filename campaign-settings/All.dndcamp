@@ -1,0 +1,10 @@
+﻿<D20CampaignSetting name="" >
+   <!--
+      Dungeons and Dragons Insider: Character Builder campaign save file
+   -->
+   <Houserules>
+      <RulesElement name="Io" type="Deity" internal-id="ID_INTERNAL_DEITY_IO" >
+      The deceased creator of Dragons and the Dragonborn.
+      </RulesElement>
+   </Houserules>
+</D20CampaignSetting>
