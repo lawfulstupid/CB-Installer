@@ -1,4 +1,5 @@
 'D&D 4e Offline Character Builder' created by Wizards of the Coast (www.wizards.com).
+
 'Character Builder Loader' created by the CBLoader team (github.com/cbloader/cbloader).
 
 ## INSTALLATION
