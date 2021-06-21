@@ -1,0 +1,6 @@
+https://github.com/lawfulstupid/CB-Installer/raw/main/repository/CharacterBuilderInstaller.exe CharacterBuilderInstaller.exe
+https://github.com/lawfulstupid/CB-Installer/raw/main/repository/CharacterBuilderUpdateAug2010.exe CharacterBuilderUpdateAug2010.exe
+https://github.com/lawfulstupid/CB-Installer/raw/main/repository/CharacterBuilderUpdateOct2010.exe CharacterBuilderUpdateOct2010.exe
+https://github.com/lawfulstupid/CB-Installer/raw/main/repository/CBLoader.zip CBLoader.zip
+https://github.com/lawfulstupid/CB-Installer/raw/main/repository/WotC.index WotC.index
+https://github.com/lawfulstupid/CB-Installer/raw/main/repository/parts.zip parts.zip

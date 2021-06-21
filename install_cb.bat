@@ -127,8 +127,7 @@ if defined no_download (
 )
 
 @REM GET FILELIST
-set "dlcode=https://drive.google.com/uc?export=download&id"
-call:download "%dlcode%=%filelist%" "%work_dir%\filelist.txt"
+call:download "%filelist%" "%work_dir%\filelist.txt"
 
 @REM DOWNLOAD
 echo ====================================================================================================
@@ -137,7 +136,7 @@ echo This installer requires no more input. Come back in about 10-15 minutes.
 echo.
 for /f "tokens=1,2" %%F in (%work_dir%\filelist.txt) do (
 	echo Downloading %%~nG...
-	call:download "%dlcode%=%%~F" "%work_dir%\%%~nxG"
+	call:download "%%~F" "%work_dir%\%%~nxG"
 )
 echo Done.
 echo.
