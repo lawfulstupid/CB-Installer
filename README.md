@@ -10,6 +10,6 @@ A start menu shortcut and desktop shortcut for "DnD 4e Character Builder" will b
 - 7-zip is required to unpack program files, which you can get for free from www.7-zip.org. It's better than WinRAR.
 - I recommend running [uninstall_cb.bat](https://raw.githubusercontent.com/lawfulstupid/CB-Installer/main/uninstall_cb.bat) first if you have at any point had the character builder installed before.
 - Once the installer begins downloading program files, it won't need your input anymore.
-- Characters you make with the Character Builder will, by default, be saved in "My Documents\ddi\Saved Characters" as .dnd4e files.
+- Characters you make with the Character Builder will, by default, be saved in "My Documents\ddi\Saved Characters" as `.dnd4e` files.
 - "How To Install Character Builder For Dummies.txt" contains steps for manual installation, which install_cb.bat automates. You can use this if you encounter bugs.
-- Run 'install_cb.bat -h' for command-line arguments.
+- Run `install_cb.bat -h` for command-line arguments.
