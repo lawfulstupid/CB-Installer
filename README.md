@@ -3,7 +3,7 @@
 
 
 INSTALLATION:
-Simply run install_cb.bat and follow the instructions in the command window.
+Simply download <a href="https://raw.githubusercontent.com/lawfulstupid/CB-Installer/main/install_cb.bat" download>install_cb.bat</a>, run it, and follow the instructions in the command window.
 A start menu shortcut and desktop shortcut for "DnD 4e Character Builder" will be made.
 
 NOTES:
