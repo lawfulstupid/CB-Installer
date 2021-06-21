@@ -11,7 +11,7 @@ Change this to wherever you want to install the Character Builder.
 DIRECTIONS:
 00) Make sure you've read ALL of the text above.
     If you continue without doing so, you really are a dummy.
-01) Download links (a) - (e), and then open the folder you downloaded them to.
+01) Download everything in the /repository directory to some working folder on your computer.
 02) Right click "CharacterBuilderInstaller.exe" > Run as administrator.
     Install to INSTALL_DIRECTORY.
     Do NOT run the Character Builder!
@@ -43,35 +43,15 @@ DIRECTIONS:
 13) Installation is now fully complete, you may now use the Character Builder.
 
 NOTES:
-01) Only ever run 'CBLoader.exe -d -F', or the shortcuts you created in steps (09)-(11).
-    Do not run any other executable file relating to the Character Builder.
-02) You can change INSTALL_DIRECTORY to a different path, but make sure you use only that path.
-03) By default, your characters will be saved in "My Documents\ddi\Saved Characters".
-04) To uninstall, use the uninstall utility in the Start Menu folder. Then:
-    Delete the Start Menu folder and desktop shortcut.
-        Then remove the following folders manually:
-        %appdata%\CBLoader
-        %localappdata%\Wizards_of_the_Coast
-        My Documents\builder_known_files.txt
-    Note that you may have characters saved in "My Documents\ddi".
+- Only ever run 'CBLoader.exe -d -F', or the shortcuts you created in steps (09)-(11).
+	Do not run any other executable file relating to the Character Builder.
+- You can change INSTALL_DIRECTORY to a different path, but make sure you use only that path.
+- By default, your characters will be saved in "My Documents\ddi\Saved Characters".
+- To uninstall, use the uninstall utility in the Start Menu folder. Then:
+	1. Delete the Start Menu folder and desktop shortcut.
+	2.Then remove the following folders manually:
+        	- %appdata%\CBLoader
+		- %localappdata%\Wizards_of_the_Coast
+		- My Documents\builder_known_files.txt
+	Note that you may have characters saved in "My Documents\ddi".
     It is recommended to back up all .dnd4e files, then remove this folder to complete uninstallation.
-
-LINKS:
-(a) drive.google.com/uc?export=download&id=1GgRIi2qXr6InOly3v--CHMgQNu7TTn3P
-(b) drive.google.com/uc?export=download&id=1f21RimcAE5jiyOY1u69MvZWSufspN4Bx
-(c) drive.google.com/uc?export=download&id=11yoeN-yJyyJf_7KTZiS8LBYO5I396rVF
-(d) drive.google.com/uc?export=download&id=1hfemoax2n03CH0zMDaR2PTWCqssZcnuq
-(e) drive.google.com/uc?export=download&id=1BOyrL83s40DR9hHPO-3zB_LT8AYNtIA_
-(f) drive.google.com/uc?export=download&id=1K7Alouqnxw4m3J3pngmuOvJO_FpjfAnJ
-(g) drive.google.com/open?id=1gW0CwmHbqKISTo74urC7YzXUcy4BBw8e (master folder)
-
-If the above links aren't working, send me a message at salelsawarim@gmail.com to say so, and I'll try to get them up again ASAP.
-In the meantime, you can try the below links, but I cannot guarantee their stability.
-
-BACKUP LINKS:
-(a) www-personal.umich.edu/~macmog/DnD4E/CharacterBuilderInstaller.exe
-(b) www-personal.umich.edu/~macmog/DnD4E/CharacterBuilderUpdateAug2010.exe
-(c) www-personal.umich.edu/~macmog/DnD4E/CharacterBuilderUpdateOct2010.exe
-(d) www-personal.umich.edu/~macmog/DnD4E/CBLoader.zip
-(e) cbloader.com/indexes/WotC.index
-(f) www-personal.umich.edu/~macmog/DnD4E/
