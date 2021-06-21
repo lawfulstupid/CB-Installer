@@ -5,7 +5,7 @@ echo ===========================================================================
 echo.
 echo 'D^&D 4e Offline Character Builder' created by Wizards of the Coast (www.wizards.com).
 echo 'Character Builder Loader' created by the CBLoader team (github.com/cbloader/cbloader).
-echo Please report bugs to salel.sawarim@gmail.com, and put "Character Builder" somewhere in the subject.
+echo Please report bugs to https://github.com/lawfulstupid/CB-Installer/issues.
 echo.
 echo ====================================================================================================
 echo.
